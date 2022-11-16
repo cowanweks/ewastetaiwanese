@@ -1,0 +1,9 @@
+.form-control{
+    width: 500px;
+}
+.content .row{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}

@@ -1,0 +1,26 @@
+
+.content.content h2#current{
+     
+}
+
+#current-streams
+{
+    display: flex;
+    flex-direction: row;
+    column-gap: 10px;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: center;
+    width: 80vw;
+}
+
+#current-streams .stream  video,
+#current-streams .stream  video{
+    height: 300px;
+    width: 400px;
+}
+
+#current-streams .stream .description,
+#upcoming-streams .stream .description{
+    font-size: 11pt;
+}
